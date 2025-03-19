@@ -1,22 +1,51 @@
 ## Hi 👋, I'm Maheshwari Butle 
 
-A passionate developer working on **Expo Suit**, a system for managing expos, including exhibitor registration, delegate registration, visitor registration, stall booking, and requirement booking.  
+A passionate developer working on **Expo Suit**, a system for managing expos, including exhibitor registration, delegate registration, visitor registration, stall booking, and requirement booking. 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MaheshwariButle07&label=Profile%20views&color=0e75b6&style=flat" alt="MAHESHWARI BUTLE" /> </p>
 
 ### 🚀 About Me  
 - 🔭 Currently working on **Expo Suit**  
-- 💡 Ask me about **Expo Management Systems, Full Stack Development, Java, Spring Boot, SQL, and Web Technologies**  
-- 📫 Reach me at: **maheshwaributle07@gmail.com**  
+- 💡 Ask me about **Full Stack Development , HTML, CSS , JAVASCRIPT , REACTJS , NEXTJS , SUPABASE and TAILWIND CSS**  
+- 📫 Reach me at: **maheshwaributle07@gmail.com** 
 
 ### 🛠️ Languages and Tools  
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![ReactJS](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)  
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
+    </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  </a>
+  <a href="https://supabase.com/" target="_blank">
+   <img src="https://pipedream.com/s.v0/app_1dBhP3/logo/orig" alt="Supabase" width="50" height="50"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+   <img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" alt="TailwindCSS" width="50" height="50"/>
+  </a>
+  
+</p>
 
 ### 📲 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/maheshwari-butle-7b9a3925b/))  
-[![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-maheshwaributle07@gmail.com)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/maheshwari-butle-7b9a3925b/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+  </a>          
+  <a href="mailto:maheshwaributle07@gmail.com" target="_blank">
+    <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Gmail" width="50" height="50"/>
+  </a>
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaheshwariButle07&show_icons=true&locale=en&layout=compact" alt="" /></p>
